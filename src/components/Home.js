@@ -30,11 +30,11 @@ export default function Home() {
                     <div className='description'>
                         I'm a software developer based in Toronto. A few interest have are in full-stack development, mobile devleopment, human-computer interactions, and everything in between.
                         <span className='iconSet'>
-                            <a href="https://github.com/BrandonDeoram/GoatApp" className='icon'>
+                            <a href="https://github.com/BrandonDeoram" className='icon'>
                                 <img src={github} alt='blank' height='30px' />
 
                             </a>
-                            <a href="https://github.com/BrandonDeoram/GoatApp">
+                            <a href="https://www.linkedin.com/in/sanjay-deoram-012807159/">
                                 <img src={img2} alt='blank' height='30px' />
                             </a></span>
                     </div>
