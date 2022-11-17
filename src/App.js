@@ -11,7 +11,7 @@ import Resume from './components/Resume';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 export default function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <div id="content">
           <Switch>
