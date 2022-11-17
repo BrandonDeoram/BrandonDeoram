@@ -1,0 +1,143 @@
+#home {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-left: 10%;
+    margin-top: 10%;
+    min-height: 79vh;
+}
+
+.intro {
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.typeWriter {
+    font-size: calc(2.8vw + 2.8vh);
+}
+
+.welcome {
+    font-size: calc(1.0vw + 1.8vh);
+    color: var(--offWhite);
+}
+
+.akatWritting {
+    font-size: calc(1.8vw + 1.0vh);
+    color: var(--darkRed);
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke: 1.5px;
+
+}
+
+.akatContainer {
+    margin-top: 5%;
+    margin-right: 5rem;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.akatsukiImage {
+    width: 100%;
+    height: 100%;
+}
+
+.description {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    font-size: 20px;
+    margin-top: 3%;
+    color: var(--offWhite);
+    line-height: 2;
+
+}
+
+.iconSet {
+
+    align-items: center;
+}
+
+.icon {
+
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.description::after {
+
+    /* position:absolute; */
+    bottom: 5px;
+    padding-left: 10px;
+}
+
+.resumeContainer {
+    margin-top: .5rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.resumeButton {
+    margin-top: 5px;
+    padding: 1.2rem;
+    font-size: 16px;
+    display: flex;
+    border-radius: 3px;
+    border: 1px solid white;
+    height: 30px;
+    align-items: center;
+    background-color: var(--darkRed);
+}
+.resumeButton:hover{
+    opacity: 80%;
+}
+.link {
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 916px) {
+    .akatContainer {
+        flex-wrap: wrap;
+    }
+
+    .akatsukiImage {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #home {
+        flex-direction: column;
+        flex-wrap: wrap;
+        margin-right: 2rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #home {
+        padding-top: 20px;
+        margin-bottom: 2rem;
+        min-height: 80vh;
+    }
+
+    .description {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+
+    .resumeContainer {
+        display: none;
+    }
+
+    .icon {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}

@@ -1,0 +1,12 @@
+.App {
+  background-color: var(--background-Color);
+  display: flex;
+  flex-direction: row;
+}
+
+
+#content {
+  width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
