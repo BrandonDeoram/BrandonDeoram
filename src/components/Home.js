@@ -28,7 +28,7 @@ export default function Home() {
                 </Fade>
                 <Fade top>
                     <div className='description'>
-                        I'm a software developer based in Toronto. A few interest have are in full-stack development, mobile devleopment, human-computer interactions, and everything in between.
+                        I'm a software developer based in Toronto. A few of my interest are full-stack development, mobile devleopment, human-computer interactions, and everything in between.
                         <span className='iconSet'>
                             <a href="https://github.com/BrandonDeoram" className='icon'>
                                 <img src={github} alt='blank' height='30px' />
