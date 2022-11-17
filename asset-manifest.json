@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/BrandonDeoram/static/css/main.cbc910bf.css",
-    "main.js": "/BrandonDeoram/static/js/main.cba1815a.js",
-    "static/media/pdf.worker.js": "/BrandonDeoram/static/media/pdf.worker.1318c14a7c1331cd07bc.js",
-    "static/media/goatApp.png": "/BrandonDeoram/static/media/goatApp.4f8fdc1785230fca6ab9.png",
-    "static/media/food4Cause.png": "/BrandonDeoram/static/media/food4Cause.dafd68b6affc959ed74a.png",
-    "static/media/spamDetector.png": "/BrandonDeoram/static/media/spamDetector.3fc9e1279cf3f3084a36.png",
-    "static/media/me.jpg": "/BrandonDeoram/static/media/me.72b9aaf270f24b677ccb.jpg",
-    "static/media/github.png": "/BrandonDeoram/static/media/github.4d74fd76ac168df7723c.png",
-    "static/media/resume.pdf": "/BrandonDeoram/static/media/resume.77a42b50364ae3cfdd48.pdf",
-    "static/media/akatLogo.png": "/BrandonDeoram/static/media/akatLogo.9425f8ec350677747d54.png",
-    "static/media/aAsianHiro.ttf": "/BrandonDeoram/static/media/aAsianHiro.617e796833a0d036f0b7.ttf",
-    "index.html": "/BrandonDeoram/index.html",
-    "main.cbc910bf.css.map": "/BrandonDeoram/static/css/main.cbc910bf.css.map",
-    "main.cba1815a.js.map": "/BrandonDeoram/static/js/main.cba1815a.js.map"
+    "main.css": "//sanjaydeoram.com/static/css/main.732e381a.css",
+    "main.js": "//sanjaydeoram.com/static/js/main.b3d57415.js",
+    "static/media/pdf.worker.js": "//sanjaydeoram.com/static/media/pdf.worker.1318c14a7c1331cd07bc.js",
+    "static/media/goatApp.png": "//sanjaydeoram.com/static/media/goatApp.4f8fdc1785230fca6ab9.png",
+    "static/media/food4Cause.png": "//sanjaydeoram.com/static/media/food4Cause.dafd68b6affc959ed74a.png",
+    "static/media/spamDetector.png": "//sanjaydeoram.com/static/media/spamDetector.3fc9e1279cf3f3084a36.png",
+    "static/media/me.jpg": "//sanjaydeoram.com/static/media/me.72b9aaf270f24b677ccb.jpg",
+    "static/media/github.png": "//sanjaydeoram.com/static/media/github.4d74fd76ac168df7723c.png",
+    "static/media/resume.pdf": "//sanjaydeoram.com/static/media/resume.77a42b50364ae3cfdd48.pdf",
+    "static/media/akatLogo.png": "//sanjaydeoram.com/static/media/akatLogo.9425f8ec350677747d54.png",
+    "static/media/aAsianHiro.ttf": "//sanjaydeoram.com/static/media/aAsianHiro.617e796833a0d036f0b7.ttf",
+    "index.html": "//sanjaydeoram.com/index.html",
+    "main.732e381a.css.map": "//sanjaydeoram.com/static/css/main.732e381a.css.map",
+    "main.b3d57415.js.map": "//sanjaydeoram.com/static/js/main.b3d57415.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbc910bf.css",
-    "static/js/main.cba1815a.js"
+    "static/css/main.732e381a.css",
+    "static/js/main.b3d57415.js"
   ]
 }
