@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//sanjaydeoram.com/static/css/main.732e381a.css",
-    "main.js": "//sanjaydeoram.com/static/js/main.b3d57415.js",
+    "main.js": "//sanjaydeoram.com/static/js/main.2006ec8f.js",
     "static/media/pdf.worker.js": "//sanjaydeoram.com/static/media/pdf.worker.1318c14a7c1331cd07bc.js",
     "static/media/goatApp.png": "//sanjaydeoram.com/static/media/goatApp.4f8fdc1785230fca6ab9.png",
     "static/media/food4Cause.png": "//sanjaydeoram.com/static/media/food4Cause.dafd68b6affc959ed74a.png",
@@ -13,10 +13,10 @@
     "static/media/aAsianHiro.ttf": "//sanjaydeoram.com/static/media/aAsianHiro.617e796833a0d036f0b7.ttf",
     "index.html": "//sanjaydeoram.com/index.html",
     "main.732e381a.css.map": "//sanjaydeoram.com/static/css/main.732e381a.css.map",
-    "main.b3d57415.js.map": "//sanjaydeoram.com/static/js/main.b3d57415.js.map"
+    "main.2006ec8f.js.map": "//sanjaydeoram.com/static/js/main.2006ec8f.js.map"
   },
   "entrypoints": [
     "static/css/main.732e381a.css",
-    "static/js/main.b3d57415.js"
+    "static/js/main.2006ec8f.js"
   ]
 }
