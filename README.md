@@ -9,7 +9,11 @@
   
 <img align="right" width="50%" src="https://yt3.ggpht.com/eAE3b86BTcLBZLcKqCztzplKx7MutPNzqCPSzTvkzV7Us28eLl2Hm_b-jzFXRAu9kDJmD3m5DQ=s600-c-k-c0x00ffffff-no-rj-rp-mo">
   
-<p>I am a fourth year student at Ontario Tech University, working towards achieving a bachelor’s degree in Computer Science. Outside of work and school, I love to create mobile applications that benefit me and my friends, as well as automating easy tasks using python and other languages. I code for fun in my free time, but there's just so much I want to learn and create, that it's hard choosing one project to focus on. With that said I am looking for something new, where I can put my skills to use and have my work benefit others around me.</p> 
+<p>As a fourth-year computer science student with a focus on mobile and web development, I have gained a strong foundation in programming languages and frameworks such as Flutter, Python, and React. I have a passion for building interactive and user-friendly applications and have gained practical experience through coursework and personal projects. In my internships and coursework, I have had the opportunity to work on projects ranging from developing web pages to building mobile applications. I am excited to continue learning and growing in my skills, and am eager to apply my knowledge and passion to a career in mobile and web development. I am always looking for new opportunities to challenge myself and make a meaningful impact in the industry.
+
+Outside of work, I love to read manga 📚 watch anime, as well as make YouTube videos such as study vlogs, and developer vlogs to document my journey.
+
+Youtube 📺: https://www.youtube.com/channel/UC0bch7kzRu9kKiKIaCj2SbQ.</p> 
 </div>
 
 <br>
