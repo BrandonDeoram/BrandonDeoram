@@ -14,7 +14,7 @@
 
 💻 Proficient in programming languages including Flutter, Python 🐍, and React ⚛️.
 
-💼 Practical experience in developing web pages and mobile applications through coursework and personal projects.
+💼 Practical experience in developing web pages and mobile applications through work experience, courseworkand personal projects.
 
 🎥 Passionate about documenting my journey and sharing knowledge through YouTube videos.
 
