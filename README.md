@@ -10,17 +10,13 @@
 <img align="right" width="50%" src="https://yt3.ggpht.com/eAE3b86BTcLBZLcKqCztzplKx7MutPNzqCPSzTvkzV7Us28eLl2Hm_b-jzFXRAu9kDJmD3m5DQ=s600-c-k-c0x00ffffff-no-rj-rp-mo">
   
 <p>
- 📱 Mobile 🌐 Web development student specializing in user-friendly applications.
+👋 Hi There ! I am a Software Developer with over 1.5 years of experience refining my craft and delivering impactful solutions. Currently serving as a Software Developer at NCFDC, where I developed a Python script deployed on AWS Lambda, revolutionizing our data entry process and saving 180 hours of work per quarter.
 
-💻 Proficient in programming languages including Flutter, Python 🐍, and React ⚛️.
+🚀 During my tenure as a Full Stack Developer at Rubicon. I created a web-based Freedom of Information request system utilizing HTML/CSS, JavaScript, React.js, Stripe.js, Flask & Twilio API, which facilitated over 1,000 successful requests by users within the first three months. 
 
-💼 Practical experience in developing web pages and mobile applications through work experience, coursework and personal projects.
+🎥 Outside of my professional endeavors, I'm passionate about sharing my knowledge and experiences with the broader community. You can find me documenting my coding projects and insights on YouTube, where I strive to demystify the world of programming and inspire others to pursue their passions in technology. 
 
-🎥 Passionate about documenting my journey and sharing knowledge through YouTube videos.
-
-📚 Enjoy reading manga and watching anime in free time.
-
-Youtube 📺: https://www.youtube.com/channel/UC0bch7kzRu9kKiKIaCj2SbQ.</p> 
+Youtube 📺: [https://www.youtube.com/channel/UC0bch7kzRu9kKiKIaCj2SbQ.](https://www.youtube.com/@sanjay_deoram/videos)</p> 
 </div>
 
 <br>
