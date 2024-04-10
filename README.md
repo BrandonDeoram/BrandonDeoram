@@ -33,11 +33,4 @@ Youtube 📺: [https://www.youtube.com/channel/UC0bch7kzRu9kKiKIaCj2SbQ.](https:
  <i> <b>I don't fear a man who knows thousands of kicks, I fear a man who practiced 1 kick thousands of times.</b> </i>
 </p>
 
-#
-
-  <p> <center> <b> <a href="https://www.linkedin.com/in/sanjay-deoram-012807159/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" style="max-width:100%;" width="125px"> </a> </b> </cemter>
-
-  </p>
-
-
 
